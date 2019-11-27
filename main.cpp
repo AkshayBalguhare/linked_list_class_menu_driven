@@ -16,10 +16,10 @@ class doubly_linked_list
                  head=0;
                  last=0;
              }
-             ~doubly_linked_list()
-              {
+            
+              
 
-              }
+             
             void create(int x)
             { node_d*n=new node_d;
               n->data=x;
