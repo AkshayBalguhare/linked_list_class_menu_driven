@@ -17,9 +17,6 @@ class doubly_linked_list
                  last=0;
              }
             
-              
-
-             
             void create(int x)
             { node_d*n=new node_d;
               n->data=x;
